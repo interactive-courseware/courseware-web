@@ -1,0 +1,1 @@
+<template><div class="empty-state"><span class="empty-number">404</span><h1>这条路径还没有内容</h1><p>页面可能已移动，回到课程目录继续探索吧。</p><RouterLink class="button primary" to="/catalog">返回课程目录</RouterLink></div></template>

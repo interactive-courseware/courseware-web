@@ -1,0 +1,9 @@
+:root {
+  color-scheme: light;
+  --paper: #f8f9f3;
+  --ink: #374b32;
+  --muted: #5d6c50;
+  --green: #365a3d;
+  --border: #e2e7d8;
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
